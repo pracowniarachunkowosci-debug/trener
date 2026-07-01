@@ -1,2 +1,0 @@
-# trener
-test
